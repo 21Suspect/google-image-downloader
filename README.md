@@ -1,6 +1,6 @@
 # Visual Image Downloader (Chrome Extension)
 
-A specialized Chrome Extension designed to automate the process of downloading high-resolution images based on a list of search terms. Originally developed to populate a massive architectural database, this tool uses visual analysis and simulated interactions to find the best available versions of images on Google Search.
+A specialized Chrome Extension designed for use on **Google Images** to automate the process of downloading many high-resolution images from Google Image Search. Originally developed to populate a massive architectural database, this tool uses visual analysis and simulated interactions to find the best available versions of images on Google Search.
 
 ## 🚀 Features
 
