@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Visual Image Downloader",
+  "version": "2.1",
+  "description": "Download high-res images with visual debugging.",
+  "permissions": [
+    "downloads",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.google.com/search?*&udm=2*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
